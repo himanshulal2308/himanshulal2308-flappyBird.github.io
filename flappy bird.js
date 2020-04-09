@@ -62,7 +62,7 @@ function draw(){
             location.reload(); // reload the page
         }
 
-        if(pipe[i].x==15)
+        if(pipe[i].x==10)
         {
         	score++;
         	scor.play();
